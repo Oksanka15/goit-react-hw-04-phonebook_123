@@ -2,7 +2,7 @@
   "name": "goit-react-hw-04-phonebook_123",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Oksanka15.github.io/goit-react-hw-04-phonebook_123/",
+  "homepage": "https://oksanka15.github.io/goit-react-hw-04-phonebook_123/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
